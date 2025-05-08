@@ -1,0 +1,73 @@
+# macOS
+###########################################
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VS Code
+###########################################
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+###########################################
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# Visual Studio for Mac
+.idea/
+
+# .NET Core
+###########################################
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+###########################################
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+[Aa]rch/
+[Aa]rchs/
+
+# User-specific configuration files
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+###########################################
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Web
+###########################################
+# .NET web
+wwwroot/
+
+# .NET Output
+bin/
+obj/
+
+# macOS specific files and directories
+###########################################
+# macOS Finder directory
+*.swp
