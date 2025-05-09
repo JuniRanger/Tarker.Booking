@@ -1,5 +1,3 @@
-using System;
-
 namespace Tarker.Booking.Application.Database.User.Commands.CreateUser;
 
 public class CreateUserModel
@@ -9,3 +7,4 @@ public class CreateUserModel
     public required string UserName { get; set; }
     public required string Password { get; set; }
 }
+

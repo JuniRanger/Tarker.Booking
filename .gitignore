@@ -71,3 +71,5 @@ obj/
 ###########################################
 # macOS Finder directory
 *.swp
+
+appsettings.json
